@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/flask-batteries-included) to Huma organisation as part of change in asset ownership 
 # Flask Batteries Included
 
 An installable package for API microservices. It provides Flask plus the basic extras Polaris needs for every API microservice.
